@@ -1,4 +1,2 @@
-hello how are you
-
-have a good day
-and learn the maths and python
+Hello world
+This is a new line
